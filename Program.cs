@@ -8,3 +8,4 @@ string text = System.IO.File.ReadAllText("panda-info.txt");
 System.Console.WriteLine($"Here in info from the file 👉 {text}");
 
 
+Console.WriteLine("Nu testar Lukas något");
